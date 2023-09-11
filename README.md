@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @paul0li
-- 👀 I’m interested in learning new languages. Develop software. 
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on game Dev and bio prosthesis
+ @paul0li
+- 👀 Interested in game development
+- 🌱 Learning python, C++ and Web Development (HTML/CSS/Java)
+- 💞️ I’m looking to collaborate on game Dev and IA
 - 📫 How to reach me pcjorquerabz@gmail.com
 
 <!---
