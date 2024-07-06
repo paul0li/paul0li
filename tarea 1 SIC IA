@@ -1,0 +1,27 @@
+import time
+print("¡Bienvenidos al simulador de cajero automático!")
+cuenta = input("Por favor, introduzca su número de cuenta para continuar: ")
+print("Estimado estudiante, este cajero automático es capaz de realizar diferentes operaciones. ")
+while True:
+    opcion = int(input("Por favor, seleccione la opción deseada:\n0. Salir\n1. Consultar Saldo  \n2. Retirar Dinero \n3. Depositar dinero\n4. Transferir \n"))
+    if opcion == 1:
+        print("¡Su saldo actual es de $5000! ¡Gracias por consultar!")
+        time.sleep(1)
+    elif opcion == 2:
+        retiro = int(input("Por favor, ingrese la cantidad a retirar: "))
+        print(f"Retiro exitoso. Ha retirado {retiro}. Su saldo actual es de {5000-retiro}")
+        time.sleep(1)
+    elif opcion ==3:
+        deposito = int(input("Por favor, ingrese la cantidad a depositar: "))
+        print(f"¡Depósito exitoso! Ha depositado {deposito}. Su saldo actual es de {5000+deposito}")
+        time.sleep(1)
+    elif opcion == 4:
+        destino = int(input("Por favor, ingrese el número de cuenta de destino: "))
+        cantidad = int(input("Por favor, ingrese la cantidad a transferir: "))
+        print(f" ¡Transferencia exitosa! Ha transferido {cantidad} a la cuenta {destino}.")
+        time.sleep(1)
+    elif opcion == 0:
+        print("Program ended.")
+        break
+    print("¡Gracias por utilizar nuestro simulador de cajero automático! Si desea realizar otra operación, puede seleccionar una nueva opción. En caso contrario, puede finalizar la transacción.")
+    time.sleep(1)
