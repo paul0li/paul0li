@@ -2,7 +2,7 @@
 - 📚 Computer Engineering student at Universidad de Chile
 - 💧 CTO of ANN-Water, improving water leak prevention with artificial neural networks
 - 👀 Interested in game development and Data Science
-- 🌱 Improving everyday on Python, C++, HTML/CSS/Javascript, Godot, Unity
+- 🌱 Improving everyday on Python, C++, Tensorflow, Godot, Unity
 - 💞️ I’m looking to collaborate on game Dev and IA
 - 📫 How to reach me pcjorquerabz@gmail.com
 
