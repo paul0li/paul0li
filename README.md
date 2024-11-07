@@ -1,10 +1,10 @@
  @paul0li
-- 📚 Computer Engineering student at Universidad de Chile
-- 💧 CTO of <a href="https://annwater.cl"> ANN-Water </a>, improving water leak management with artificial neural networks
+- 📚 Computer Science and Engineering student at Universidad de Chile
+- 💧 CTO and developer on <a href="https://annwater.cl"> ANN-Water </a>, improving water leak management with artificial neural networks
 - 🚗 Software Developer at <a href="https://eolian.cl">Eolian Solar Car</a>
 - 💞️ Volunteer as C++ tutor in <a href="https://ninaspro.cl">Niñas Pro </a> 
-- 👀 Interested in game development and Data Science
-- 🌱 Improving everyday on Python, C++, Godot, Java
+- 👀 Interested in full stack development and project management
+- 🌱 Improving everyday on Python, OOP, C/C++
 - 📫 How to reach me pcjorquerabz@gmail.com and @paul0li on Telegram
 
 <!---
