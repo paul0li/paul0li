@@ -4,7 +4,7 @@
 - 🚗 Software Developer at <a href="https://eolian.cl">Eolian Solar Car</a>
 - 💞️ Volunteer as C++ tutor in <a href="https://ninaspro.cl">Niñas Pro </a> 
 - 👀 Interested in full stack development and project management
-- 🌱 Improving everyday on Python, OOP, C/C++
+- 🌱 Improving everyday on Python, OOP, C/C++, SQL, and more
 - 📫 How to reach me pcjorquerabz@gmail.com and @paul0li on Telegram
 
 <!---
