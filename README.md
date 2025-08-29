@@ -1,6 +1,5 @@
  @paul0li
 - 📚 Computer Science and Engineering student at Universidad de Chile
-- 💧 CTO and developer on <a href="https://annwater.cl"> ANN-Water </a>, improving water leak management with artificial neural networks
 - 👀 Interested in full stack development and project management
 - 🌱 Improving everyday on Python, Javascript, LLMs and more
 - 📫 How to reach me pcjorquerabz@gmail.com and @paul0li on Telegram
