@@ -1,8 +1,7 @@
  @paul0li
-- 📚 Computer Science and Engineering student at Universidad de Chile
-- 👀 Interested in full stack development and project management
-- 🌱 Improving everyday on Python, Javascript, LLMs and more
-- 📫 How to reach me pcjorquerabz@gmail.com and @paul0li on Telegram
+- Lead Software Developer | Solutions Architect | Data · Python · AWS
+- 📚 Computer Science & Engineering student (B.Sc. + M.Sc.), Universidad de Chile.
+- 📫 How to reach me: pcjorquerabz@gmail.com and @paul0li on Telegram
 
 <!---
 paul0li/paul0li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
