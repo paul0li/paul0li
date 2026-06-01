@@ -43,7 +43,7 @@ Solutions Architect — data infrastructure, analytics, and AI.
   <tr>
     <td style="border:1.5px solid #30363d; padding:12px 16px; text-align:center;"><img src="assets/cir.svg" width="18" /></td>
     <td style="border:1.5px solid #30363d; padding:12px 16px;"><strong><a href="https://github.com/paul0li/timezone-project">tz-converter</a></strong> · <a href="https://paul0li.github.io/timezone-project/"><code>demo →</code></a></td>
-    <td style="border:1.5px solid #30363d; padding:12px 16px;"><code>Intl API · vanilla JS</code></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><code>vanilla JS</code></td>
     <td style="border:1.5px solid #30363d; padding:12px 16px;">DST-aware multi-timezone converter</td>
   </tr>
 </table>
@@ -54,7 +54,7 @@ Solutions Architect — data infrastructure, analytics, and AI.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack.svg" alt="Python · AWS · FastAPI · SQLAlchemy · PostgreSQL · TimescaleDB · Docker · TypeScript · React · LLMs · Whisper · Flyway · Alembic" height="74" />
+  <img src="assets/stack.svg" alt="Python · AWS · FastAPI · SQLAlchemy · PostgreSQL · TimescaleDB · Docker · TypeScript · React · LLMs · Whisper · Flyway" height="74" />
 </picture>
 
 <br />
