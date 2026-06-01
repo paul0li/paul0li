@@ -6,7 +6,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <img src="assets/banner.svg" alt="paul0li — Solutions Architect · Data & AI Infrastructure" width="100%" />
+  <img src="assets/banner.svg" alt="paul0li — Solutions Architect · Data & AI Infrastructure" width="60%" />
 </picture>
 
 <br />
