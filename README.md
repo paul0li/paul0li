@@ -24,7 +24,7 @@ Solutions Architect — data infrastructure, analytics, and AI.
 <table style="width:100%; border-collapse:collapse;">
   <tr>
     <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:center; width:40px;"></th>
-    <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:left;">Project</th>
+    <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:left; width:220px;">Project</th>
     <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:left;">Stack</th>
     <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:left;">What</th>
   </tr>
