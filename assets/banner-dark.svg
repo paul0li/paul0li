@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Jost:wght@800&amp;family=Space+Mono&amp;display=swap');
+      .name { font-family:'Jost',system-ui,sans-serif; font-weight:800; font-size:104px; letter-spacing:-3.12px; }
+      .role { font-family:'Space Mono',ui-monospace,monospace; font-weight:400; font-size:15px; letter-spacing:1.8px; }
+    </style>
+  </defs>
   <rect width="880" height="300" fill="#17150e"/>
   <rect x="46" y="48" width="96" height="96" fill="#e63946"/>
-  <text x="56" y="174" font-family="system-ui,-apple-system,sans-serif" font-weight="800" font-size="104" letter-spacing="-3.12" fill="#f4f1ea">paul0li</text>
-  <text x="56" y="218" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-weight="400" font-size="15" letter-spacing="1.8" fill="#d0d7de">SOLUTIONS ARCHITECT · DATA &amp; AI INFRASTRUCTURE</text>
-  <polygon points="740,54 782,54 761,91" fill="#5c8fd6"/>
-  <circle cx="820" cy="76" r="21" fill="#f4a300"/>
+  <text x="56" y="167" class="name" fill="#f4f1ea">paul0li</text>
+  <text x="56" y="200" class="role" fill="#d0d7de">SOLUTIONS ARCHITECT · DATA &amp; AI INFRASTRUCTURE</text>
+  <polygon points="745,54 724,91 766,91" fill="#5c8fd6"/>
+  <circle cx="803" cy="75" r="21" fill="#f4a300"/>
 </svg>
