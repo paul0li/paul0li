@@ -8,8 +8,7 @@
 
 # **paul0li**
 
-**Lead Software Developer** · **Data & AI Infrastructure**  
-**@ Pasley Hill**
+**Solutions Architect** · **Data & AI Infrastructure**
 
 <br>
 
@@ -21,8 +20,7 @@
 
 ## ■ about
 
-**Lead Software Developer** @ **Pasley Hill** — building data infrastructure, analytics, and AI  
-for the wholesale automotive marketplace.
+**Solutions Architect** — data infrastructure, analytics, and AI.
 
 **B.Sc.+M.Sc.** Computer Science & Engineering · Universidad de Chile
 
