@@ -9,8 +9,6 @@
   <img src="assets/banner.svg" alt="paul0li — Solutions Architect · Data & AI Infrastructure" width="60%" />
 </picture>
 
-<br />
-
 ### <img src="assets/sq.svg" width="15" align="center" /> &nbsp;About
 
 Solutions Architect — data infrastructure, analytics, and AI.
