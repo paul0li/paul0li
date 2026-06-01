@@ -6,7 +6,7 @@
       .role { font-family:'Space Mono',ui-monospace,monospace; font-weight:400; font-size:15px; letter-spacing:1.8px; }
     </style>
   </defs>
-  <rect width="880" height="300" fill="#17150e"/>
+  <rect width="880" height="300" fill="#0c1117"/>
   <rect x="46" y="48" width="96" height="96" fill="#e63946"/>
   <text x="56" y="167" class="name" fill="#f4f1ea">paul0li</text>
   <text x="56" y="200" class="role" fill="#d0d7de">SOLUTIONS ARCHITECT · DATA &amp; AI INFRASTRUCTURE</text>
