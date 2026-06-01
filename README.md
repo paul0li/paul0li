@@ -21,11 +21,32 @@ Solutions Architect — data infrastructure, analytics, and AI.
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tri-dark.svg" /><img src="assets/tri.svg" width="15" align="center" /></picture> &nbsp;Featured
 
-|     | Project | Stack | What |
-| :-: | :------ | :---- | :--- |
-| <img src="assets/sq.svg" width="16" />  | **[fin-app](https://github.com/paul0li/fin-app)** &nbsp;·&nbsp; [`demo →`](https://fin-app-gdky.onrender.com/)      | `FastAPI · SQLAlchemy · PostgreSQL · Alembic` | personal finance for two — import, categorize, budget |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tri-dark.svg" /><img src="assets/tri.svg" width="16" /></picture> | **[coqo-landing](https://github.com/paul0li/coqo-landing-page)** &nbsp;·&nbsp; [`demo →`](https://paul0li.github.io/coqo-landing-page/) | `HTML/CSS/JS · vanilla`                        | minimalist artist portfolio |
-| <img src="assets/cir.svg" width="16" /> | **[tz-converter](https://github.com/paul0li/timezone-project)** &nbsp;·&nbsp; [`demo →`](https://paul0li.github.io/timezone-project/) | `Intl API · vanilla JS`                        | DST-aware multi-timezone converter |
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:center; width:40px;"></th>
+    <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:left;">Project</th>
+    <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:left;">Stack</th>
+    <th style="border:1.5px solid #30363d; padding:12px 16px; text-align:left;">What</th>
+  </tr>
+  <tr>
+    <td style="border:1.5px solid #30363d; padding:12px 16px; text-align:center;"><img src="assets/sq.svg" width="18" /></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><strong><a href="https://github.com/paul0li/fin-app">fin-app</a></strong> · <a href="https://fin-app-gdky.onrender.com/"><code>demo →</code></a></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><code>FastAPI · SQLAlchemy · PostgreSQL · Alembic</code></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;">personal finance for two — import, categorize, budget</td>
+  </tr>
+  <tr>
+    <td style="border:1.5px solid #30363d; padding:12px 16px; text-align:center;"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tri-dark.svg" /><img src="assets/tri.svg" width="18" /></picture></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><strong><a href="https://github.com/paul0li/coqo-landing-page">coqo-landing</a></strong> · <a href="https://paul0li.github.io/coqo-landing-page/"><code>demo →</code></a></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><code>HTML/CSS/JS · vanilla</code></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;">minimalist artist portfolio</td>
+  </tr>
+  <tr>
+    <td style="border:1.5px solid #30363d; padding:12px 16px; text-align:center;"><img src="assets/cir.svg" width="18" /></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><strong><a href="https://github.com/paul0li/timezone-project">tz-converter</a></strong> · <a href="https://paul0li.github.io/timezone-project/"><code>demo →</code></a></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><code>Intl API · vanilla JS</code></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;">DST-aware multi-timezone converter</td>
+  </tr>
+</table>
 
 <br />
 
