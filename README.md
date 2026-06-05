@@ -13,7 +13,7 @@
 
 Solutions Architect — data infrastructure, analytics, and AI.
 
-`B.Sc. + M.Sc. Computer Science & Engineering` · Universidad de Chile
+`B.Sc. Computer Science & Engineering Student` · Universidad de Chile
 
 <br />
 
