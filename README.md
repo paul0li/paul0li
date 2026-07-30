@@ -28,7 +28,7 @@ Solutions Architect — data infrastructure, analytics, and AI.
   </tr>
   <tr>
     <td style="border:1.5px solid #30363d; padding:12px 16px; text-align:center;"><img src="assets/sq.svg" width="18" /></td>
-    <td style="border:1.5px solid #30363d; padding:12px 16px;"><strong><a href="https://github.com/paul0li/fin-app">fin-app</a></strong> · <a href="https://fin-app-gdky.onrender.com/"><code>demo →</code></a></td>
+    <td style="border:1.5px solid #30363d; padding:12px 16px;"><strong><a href="https://github.com/paul0li/fin-app">fin-app</a></strong> · <a href="https://finapp.paul0li.tech/"><code>demo →</code></a></td>
     <td style="border:1.5px solid #30363d; padding:12px 16px;"><code>FastAPI · SQLAlchemy · PostgreSQL · Alembic</code></td>
     <td style="border:1.5px solid #30363d; padding:12px 16px;">personal finance for two — import, categorize, budget</td>
   </tr>
