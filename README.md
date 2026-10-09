@@ -25,12 +25,11 @@ Lead Software Developer at Niuro, working for a US client: large-scale web scrap
 
 ### <img src="assets/cir.svg" width="15" align="center" /> &nbsp;Personal projects
 
-AI pipelines where the model proposes, a deterministic pipeline does the work, and a human signs off.
-
 | | Project | What | Stack |
 | :-: | :-- | :-- | :-- |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tri-dark.svg" /><img src="assets/tri.svg" width="14" /></picture> | **[clip-creator](https://github.com/paul0li/clip-creator)** | A daily scheduled agent reads a podcast's livestream transcript and picks the moments; scripts download only those ranges and cut vertical clips. | `Python · Claude · FFmpeg` |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tri-dark.svg" /><img src="assets/tri.svg" width="14" /></picture> | **[Portada](https://github.com/paul0li/Portada)** | Podcast thumbnails assembled deterministically; AI is an optional finishing pass, never a dependency. Golden + architecture tests. | `Python · FastAPI · rembg` |
+| <img src="assets/cir.svg" width="14" /> | **fin-app** · [`demo →`](https://finapp.paul0li.tech/) | Personal finance for two: import transactions, categorize them, and track a shared budget. | `FastAPI · SQLAlchemy · PostgreSQL` |
 
 <br />
 
