@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <img src="assets/banner.svg" alt="paul0li, Data & AI Systems Engineer" width="60%" />
+  <img src="assets/banner.svg" alt="paul0li, Data & AI Systems Engineer" width="75%" />
 </picture>
 
 ### <img src="assets/sq.svg" width="15" align="center" /> &nbsp;About
