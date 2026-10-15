@@ -48,7 +48,7 @@ Lead Software Developer at Niuro, working for a US client: large-scale web scrap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack.svg" alt="Python · SQL · Airflow · AWS · Redshift · PostgreSQL · TimescaleDB · Docker · FastAPI · PyTorch · scikit-learn · LLM agents · MCP · C++" height="74" />
+  <img src="assets/stack.svg" alt="Python · SQL · PostgreSQL · Supabase · Redshift · TimescaleDB · Airflow · Flyway · AWS · Docker · GitHub Actions · TypeScript · React · Tailwind · FastAPI · OAuth · LLM agents · MCP · RAG · Claude Code · YOLO · C++" height="115" />
 </picture>
 
 <br />
